@@ -56,10 +56,10 @@ target_link_libraries(scilab_optimization
   /usr/lib/scilab/libscihistory_browser.so
   /usr/lib/scilab/libsciexternal_objects_java.so
   /usr/lib/scilab/libscigraphic_export-disable.so
-  #/usr/lib/scilab/libscigraphic_objects-disable.so
+  /usr/lib/scilab/libscigraphic_objects-disable.so
   /usr/lib/scilab/libscicall_scilab.so
   /usr/lib/scilab/libscigui.so
-  /usr/lib/scilab/libsciscicos_blocks.so
+  #/usr/lib/scilab/libsciscicos_blocks.so
   /usr/lib/scilab/libsciinterpolation.so
   /usr/lib/scilab/libscigraphics-disable.so
   /usr/lib/scilab/libscihistory_manager.so
@@ -75,7 +75,7 @@ target_link_libraries(scilab_optimization
   /usr/lib/scilab/libscirenderer.so
   /usr/lib/scilab/libscipreferences-cli.so
   /usr/lib/scilab/libscilab-cli.so
-  /usr/lib/scilab/libscijvm.so
+  #/usr/lib/scilab/libscijvm.so
   /usr/lib/scilab/libscimatio.so
   /usr/lib/scilab/libscisymbolic.so
   /usr/lib/scilab/libscispreadsheet.so
@@ -93,7 +93,7 @@ target_link_libraries(scilab_optimization
   /usr/lib/scilab/libsciaction_binding-disable.so
   /usr/lib/scilab/libscijvm-disable.so
   /usr/lib/scilab/libscisound.so
-  /usr/lib/scilab/libscipreferences.so
+  #/usr/lib/scilab/libscipreferences.so
   /usr/lib/scilab/libscioptimization.so
   /usr/lib/scilab/libscigraphic_export.so
   /usr/lib/scilab/libscicompletion.so
